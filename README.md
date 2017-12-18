@@ -9,7 +9,7 @@ Python 3.5
 
 ## TODO
 
-[x ] Count the number of words, sentences and characters in a file
+[x] Count the number of words, sentences and characters in a file
 [ ] Determine the [Colman-Liau readability index](https://readable.io/content/the-coleman-liau-index/)
 [ ] Replace a phrase or a string with another phrase
 [ ] Change space between sentences from single space period to double space/period and backwards
